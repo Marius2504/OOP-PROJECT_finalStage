@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620593782 source:d:\code blocks projects\proiectpoo\main.cpp
+	<iostream>
+	<cstring>
+	<time.h>
+	<stdlib.h>
+	<vector>
+	<fstream>
+	<map>
+	<list>
+	<set>
+
